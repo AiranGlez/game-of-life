@@ -1,7 +1,7 @@
-# Product Name
-> Short blurb about what your product does.
+# GAME OF LIFE
+> Conway's Game of Life - Python 
 
-[![NPM Version]
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
@@ -12,6 +12,7 @@ One to two paragraph statement about your product and what it does.
 ## Installation
 
 OS X & Linux:
+`asasdas`
 
 ```sh
 npm install my-crazy-module --save
