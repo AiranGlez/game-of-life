@@ -23,9 +23,24 @@ One to two paragraph statement about your product and what it does.
 
 ### Requirements
 
-- Python 3.7.X
+- Python 3.7.7
 
 - Pycharm
+
+### Install Python 3.7
+
+- Windows: Download & Install (x86_64) https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
+
+- Linux:
+   * `sudo apt update`
+   * `sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev wget libbz2-dev`
+   * `wget https://www.python.org/ftp/python/3.7.7/Python-3.7.7.tgz`
+   * `tar -xf Python-3.7.7.tgz`
+   * `cd Python-3.7.7`
+   * `./configure --enable-optimizations`
+   * `make -j 8`
+   * `sudo make altinstall`
+   * `python3.7 --version`
 
 ## Usage example
 
